@@ -1,8 +1,8 @@
 ## Coursework
 
 <details>
-
-<summary>High school</summary>
+ 
+<summary><b>High school</b></summary>
 
 ### Digital Technologies
 
@@ -17,14 +17,28 @@
 
 </details>
 
+<details open>
+ 
+<summary><b>College</b></summary>
+
 ### Computer Science
 
 * [CSC 210 — Introduction to Computer Programming](https://github.com/mosguinz?tab=repositories&q=csc210)
 * [CSC 220 — Data Structures](https://github.com/mosguinz?tab=repositories&q=csc220)
+* [CSC 256 — Machine Structures](https://github.com/mosguinz?tab=repositories&q=csc256)
+* [CSC 317 — Introduction to Web Development](https://github.com/mosguinz?tab=repositories&q=csc317)
 * [CSC 340 — Programming Methodology](https://github.com/mosguinz?tab=repositories&q=csc340)
+* [CSC 413 — Introduction to Software Development](https://github.com/mosguinz?tab=repositories&q=csc413)
+* [CSC 415 — Operating Systems](https://github.com/mosguinz?tab=repositories&q=csc415)
+* [CSC 615 — UNIX Programming](https://github.com/mosguinz?tab=repositories&q=csc615)
+* [CSC 648 — Software Engineering](https://github.com/mosguinz?tab=repositories&q=csc648)
 
-### Math
+### Mathematics
 
 * [MATH 226 — Calculus I](https://github.com/mosguinz/MATH226#readme)
 * [MATH 227 — Calculus II](https://github.com/mosguinz/MATH227#readme)
+* [MATH 324 — Linear Algebra](https://github.com/mosguinz/MATH325)
+* [MATH 425 — Applied and Computational Linear Algebra](https://github.com/mosguinz/MATH425)
 
+
+</details>
