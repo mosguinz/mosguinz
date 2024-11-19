@@ -40,5 +40,21 @@
 * [MATH 324 — Linear Algebra](https://github.com/mosguinz/MATH325)
 * [MATH 425 — Applied and Computational Linear Algebra](https://github.com/mosguinz/MATH425)
 
-
 </details>
+
+## Teaching Assistant and Grading
+
+### Tools for Duc’s classes
+
+* [ductape](https://github.com/mosguinz/ductape), formerly mos-moss — CLI utility for grading Duc’s classes
+* [qwacker](https://github.com/mosguinz/qwacker) — Utility Discord bot for CSC Duclings server
+* [Assignment grading scripts](https://github.com/mosguinz?tab=repositories&q=grader), used in conjunction with [ductape](https://github.com/mosguinz/ductape).
+
+### Grading scripts
+
+* [Duc’s CSC 215 assignments](https://github.com/mosguinz?tab=repositories&q=csc215.grader)
+* [Duc’s CSC 340 assignments](https://github.com/mosguinz?tab=repositories&q=csc340.grader)
+
+### Activities
+
+* [CSC 215 extra credit](https://github.com/mosguinz/CSC215ExtraCredit_OOP)
