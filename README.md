@@ -58,3 +58,16 @@
 ### Activities
 
 * [CSC 215 extra credit](https://github.com/mosguinz/CSC215ExtraCredit_OOP)
+
+## Web scripts
+
+Little tools I made to make my life easier.
+
+* [Various bookmarklets](https://github.com/mosguinz/bookmarklets) to automate things like clipping coupons
+* [lolesports-idler](https://github.com/mosguinz/lolesports-idler) Browser extension to open and collect loot for LoL Esports livestream
+* [Transit times display](https://github.com/mosguinz/transit-display) that I put next to my calendar so I know when to run
+
+## Minecraft stuff
+
+* [Scripts to run a Minecraft server](https://github.com/nwselfcheckout/mc-utils)
+* [MCEdit script to generate a parkour map](https://github.com/mosguinz/Parkour1000-Updated)
